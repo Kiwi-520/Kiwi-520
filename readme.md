@@ -1,5 +1,3 @@
-# 👋 Hi, I'm Kiwi-520!
-
 👨‍💻 **About Me**  
 A passionate developer and tech enthusiast.
 
