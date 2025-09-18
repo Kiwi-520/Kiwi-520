@@ -1,4 +1,6 @@
 👨‍💻 **About Me**  
+Hi! Myself Disha 🥝.
+
 A passionate developer and tech enthusiast.
 
 🚀 Always eager to build innovative projects and explore new technologies.
@@ -20,18 +22,35 @@ You can reach out to me via email at [dishaholmukhe521@gmail.com](mailto:dishaho
 
 ---
 
-## 🛠 **Languages and Tools**
+### 🤝 Connect with me:
 
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![ReactJS](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Computer Vision](https://img.shields.io/badge/CV-00C853?style=for-the-badge)
+<a href="https://www.linkedin.com/in/dishaholmukhe/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36px" alt="LinkedIn"/></a>
+<a href="https://medium.com/@Disha520" target="_blank"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/medium.svg" width="36px" alt="Medium" style="background:#fff; border-radius: 6px; padding:3px;"/></a>
+<a href="https://x.com/dishaholmukhe04" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/twitter/twitter-original.svg" width="36px" alt="Twitter"/></a>
+<a href="mailto:dishaholmukhe521@gmail.com"><img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="36px" alt="Gmail" style="background:#fff; border-radius: 6px; padding:3px;"/></a>
+
+<br/>
+<br/>
+
+---
+
+### 🛠️ Languages and Tools:
+
+<span>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="36px" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="36px" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="36px" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="36px" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="36px" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="36px" alt="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="36px" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="36px" alt="Keras"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="36px" alt="OpenCV"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/streamlit/streamlit-original.svg" width="36px" alt="Streamlit"/>
+</span>
+
+<br/>
+<br/>
 
 ---
 
@@ -44,14 +63,4 @@ You can reach out to me via email at [dishaholmukhe521@gmail.com](mailto:dishaho
 
 ---
 
-## 🤝 **Connect with Me**
-
-- GitHub: [Kiwi-520](https://github.com/Kiwi-520)
-- Twitter: [@DishaHolmukhe](https://x.com/dishaholmukhe04)
-- LinkedIn: [dishaholmukhe](https://www.linkedin.com/in/dishaholmukhe/)
-- Medium: [@dishaholmukhe](https://medium.com/@Disha520)
-- Email: [dishaholmukhe521@gmail.com](mailto:dishaholmukhe521@gmail.com)
-
----
-
-_Thanks for visiting my profile!_ 🚀
+-------Thanks for visiting my profile!-------
