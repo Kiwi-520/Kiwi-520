@@ -2,7 +2,7 @@
 
 Hi! Myself Disha 🥝.
 
-A passionate developer and tech enthusiast.
+A passionate developer and tech enthusiast with deep interest in ML and developing tools.
 
 🚀 Always eager to build innovative projects and explore new technologies.
 
