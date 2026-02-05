@@ -62,6 +62,11 @@ You can reach out to me via email at [dishaholmukhe521@gmail.com](mailto:dishaho
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kiwi-520&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
+## My Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Kiwi-520&theme=github-dark)
+
+## Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Kiwi-520&show_icons=true&theme=dark)
 ---
 
 -------Thanks for visiting my profile!-------
