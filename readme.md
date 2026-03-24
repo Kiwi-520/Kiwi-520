@@ -15,14 +15,6 @@ You can reach out to me via email at [dishaholmukhe521@gmail.com](mailto:dishaho
 
 ---
 
-## 📰 Recent Articles
-
-- [Git & GitHub: Power Up Your Coding with Version Control Magic!](https://medium.com/@Disha520/git-github-power-up-your-coding-with-version-control-magic-9d1e2fc73ad5)
-- [Git Interview Questions: The Basics](https://medium.com/@Disha520/git-interview-questions-the-basics-7c1528eb9663) 
-- [Crack the DevOps Interview: Command History Like a Boss.](https://medium.com/@Disha520/demystifying-the-devops-interview-a-breakdown-of-shell-commands-912687064f8b)
-
----
-
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/dishaholmukhe/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="36px" alt="LinkedIn"/></a>
